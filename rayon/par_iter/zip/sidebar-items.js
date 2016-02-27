@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ZipIter",""],["ZipShared",""],["ZipState",""]]});
